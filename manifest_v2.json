@@ -1,0 +1,51 @@
+{
+  "item": {
+    "id": "com.wrist.sudoku",
+    "restype": "quick_app",
+    "name": "腕上数独",
+    "description": "把经典数独搬上你的手腕！专为 小米手环10 (含NFC)（Vela 系统） 打造的离线数独游戏，20 个精选关卡 + 无尽模式 + 云端排行榜，大字号居中显示，随时随地来一局。",
+    "preview": [
+      "media/1000182165.png",
+      "media/1000182166.png",
+      "media/1000182163.png",
+      "media/1000182167.png",
+      "media/1000182164.png",
+      "media/1000182168.png",
+      "media/1000182169.png",
+      "media/1000182170.png"
+    ],
+    "icon": "media/1000182161.png",
+    "cover": "media/1000182179.png",
+    "author": [
+      {
+        "name": "XiaoBin",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "激活官网",
+      "url": "https://xiaomi.ayixing.cn",
+      "icon": "globe"
+    },
+    {
+      "title": "爱发电主页",
+      "url": "https://afdian.com/a/xiaobin893",
+      "icon": "bread"
+    }
+  ],
+  "downloads": {
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/腕间数独-com.wrist.sudoku-1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/腕间数独-com.wrist.sudoku-1.0.0.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
